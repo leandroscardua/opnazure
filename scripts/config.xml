@@ -208,7 +208,7 @@
     </user>
     <nextuid>2000</nextuid>
     <nextgid>2000</nextgid>
-    <timezone>Europe/london</timezone>
+    <timezone>Europe/London</timezone>
     <time-update-interval>300</time-update-interval>
     <timeservers>0.uk.pool.ntp.org</timeservers>
     <webgui>
@@ -308,7 +308,7 @@
     </lan>
   </interfaces>
   <unbound>
-    <enable>0</enable>
+    <enable>1</enable>
   </unbound>
   <snmpd>
     <syslocation/>
